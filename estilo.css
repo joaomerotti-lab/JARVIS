@@ -11,9 +11,7 @@ body{
      font-family: "Black Ops One", system-ui;
 }
 .cabecalho{
-background-color: red;
+background-color: rgb(168, 10, 10);
 text-align: center;
 padding:20px;
-
-
 }
