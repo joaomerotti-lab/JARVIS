@@ -20,3 +20,10 @@ padding:20px;
 width: 380px;
 height: 280px;
 }
+main{
+background-color: white;
+color: white;
+max-width: 800px;
+margin: 0 auto;
+padding: 16px;
+}
