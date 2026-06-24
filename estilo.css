@@ -7,7 +7,7 @@
 
 body{
      background-color: black;
-     color: rgb(23, 180, 172);
+     color: rgb(240, 170, 19);
      font-family: "Black Ops One", system-ui;
 }
 .cabecalho{
@@ -22,7 +22,7 @@ height: 120px;
 }
 main{
 background-color: rgb(168, 10, 10);
-color:rgb(23, 180, 172) ;
+color:rgb(240, 170, 19) ;
 max-width: 800px;
 margin: 0 auto;
 padding: 16px;
