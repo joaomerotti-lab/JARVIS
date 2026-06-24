@@ -6,12 +6,12 @@
 }
 
 body{
-     background-color: white;
+     background-color: black;
      color: rgb(240, 170, 19);
      font-family: "Black Ops One", system-ui;
 }
 .cabecalho{
-background-color: rgb(168, 10, 10);
+background-color: white;
 text-align: center;
 padding:20px;
 
